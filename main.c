@@ -1,3 +1,10 @@
+/* Merge Sort Algorithm 
+* Author : Ahmed Nasr Eldin
+
+
+*/
+
+
 #include "MergeSort.h"
 #include <stdio.h>
 int compare(void * ptr_x,void * ptr_y)
